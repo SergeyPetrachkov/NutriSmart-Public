@@ -1,6 +1,6 @@
 # NutriSmart – End User License Agreement (EULA)
 
-**Last updated:** 2026-01-07
+**Last updated:** 2026-01-20
 
 This End User License Agreement (“EULA”) is a legal agreement between you (“User”) and NutriSmart regarding the NutriSmart mobile application.
 
@@ -35,7 +35,11 @@ This EULA does not transfer ownership rights.
 
 ## 4. AI Functionality
 
-NutriSmart includes AI-powered features provided by third-party services (Google Gemini via Firebase).
+NutriSmart includes AI-powered features that may operate in different ways depending on the feature used.
+
+- The **free version** uses **on-device Apple Foundation Models**
+- AI processing in this mode occurs entirely on the user’s device
+- Certain features may rely on **third-party AI services** such as Google Gemini via Firebase
 
 You acknowledge that:
 - AI output is generated automatically
@@ -74,10 +78,10 @@ To the fullest extent permitted by law, NutriSmart shall not be liable for any d
 
 ## 9. Governing Law
 
-This EULA is governed by the laws of the Netherlands.
+This EULA is governed by the laws of **[the Netherlands]**.
 
 ---
 
 ## 10. Contact
 
-📧 smart.longevity.solutions@gmail.com
+📧 **[smart.longevity.solutions@gmail.com]**

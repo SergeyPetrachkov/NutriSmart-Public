@@ -1,6 +1,6 @@
 # NutriSmart – Terms of Service
 
-**Last updated:** 2026-01-06
+**Last updated:** 2026-01-20
 
 Welcome to **NutriSmart** (“NutriSmart”, “we”, “us”, or “our”).  
 These Terms of Service (“Terms”) govern your access to and use of the NutriSmart mobile application and related services (the “Service”).
@@ -18,7 +18,11 @@ NutriSmart is a nutrition tracking application that allows users to:
 - Enter meals using natural language
 - Use AI-powered features to estimate meal composition and macro splits
 
-NutriSmart uses **Google Gemini via Firebase** to process user-provided input and generate structured nutrition data.
+### AI Processing Overview
+
+- The **free version** of NutriSmart uses **on-device Apple Foundation Models**
+- AI processing in the free version occurs **entirely on the user’s device**
+- Certain optional or advanced features may use **Google Gemini via Firebase**, which requires sending user input to third-party servers
 
 ---
 
@@ -60,12 +64,13 @@ You are solely responsible for how you use NutriSmart and its outputs.
 
 ## 5. Third-Party Services
 
-NutriSmart uses third-party services, including **Google Firebase and Google Gemini**.
+Depending on the features used, NutriSmart may rely on third-party services.
 
-By using the Service, you acknowledge that:
-- Your input may be transmitted to Google for processing
-- NutriSmart does not control how Google stores or processes this data
-- Use of third-party services is governed by their own terms and privacy policies
+- **Free version:** AI processing occurs on-device using Apple Foundation Models
+- **Other features:** user input may be transmitted to Google Gemini via Firebase for processing
+
+NutriSmart does not control how third-party providers process or store data.  
+Use of such services is governed by their respective terms and privacy policies.
 
 ---
 
@@ -110,7 +115,7 @@ Your sole remedy is to stop using the Service.
 
 ## 10. Governing Law
 
-These Terms are governed by the laws of The Netherlands, without regard to conflict of law rules.
+These Terms are governed by the laws of **[The Netherlands]**, without regard to conflict of law rules.
 
 ---
 
@@ -118,4 +123,4 @@ These Terms are governed by the laws of The Netherlands, without regard to confl
 
 For questions about these Terms:
 
-📧 **smart.longevity.solutions@gmail.com**
+📧 **[smart.longevity.solutions@gmail.com]**
