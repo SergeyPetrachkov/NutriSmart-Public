@@ -1,6 +1,6 @@
 # NutriSmart – Terms of Service
 
-**Last updated:** 2026-01-20
+**Last updated:** 2026-01-23
 
 Welcome to **NutriSmart** (“NutriSmart”, “we”, “us”, or “our”).  
 These Terms of Service (“Terms”) govern your access to and use of the NutriSmart mobile application and related services (the “Service”).
@@ -20,13 +20,25 @@ NutriSmart is a nutrition tracking application that allows users to:
 
 ### AI Processing Overview
 
-- The **free version** of NutriSmart uses **on-device Apple Foundation Models**
-- AI processing in the free version occurs **entirely on the user’s device**
-- Certain optional or advanced features may use **Google Gemini via Firebase**, which requires sending user input to third-party servers
+- The **free version** uses **on-device Apple Foundation Models**
+- AI processing in the free version occurs entirely on the user’s device
+- Certain optional or premium features may use **Google Gemini via Firebase**, which requires transmitting user input to third-party servers
 
 ---
 
-## 2. No Medical or Professional Advice
+## 2. Subscriptions and Payments
+
+NutriSmart may offer optional paid features via subscriptions.
+
+- Payments are processed through **Apple In-App Purchases**
+- Subscription management is handled using **RevenueCat**
+- NutriSmart does **not** process or store payment card details
+
+All billing, renewals, and cancellations are managed by Apple and subject to Apple’s terms.
+
+---
+
+## 3. No Medical or Professional Advice
 
 NutriSmart is provided **for informational and educational purposes only**.
 
@@ -38,7 +50,7 @@ You use the Service at your own risk.
 
 ---
 
-## 3. AI-Generated Content Disclaimer
+## 4. AI-Generated Content Disclaimer
 
 Some features rely on artificial intelligence (AI).
 
@@ -51,26 +63,16 @@ You are responsible for verifying any information before relying on it.
 
 ---
 
-## 4. User Responsibilities
-
-You agree to:
-- Use the Service for lawful purposes only
-- Not misuse or abuse AI features
-- Not attempt to reverse-engineer or exploit the Service
-
-You are solely responsible for how you use NutriSmart and its outputs.
-
----
-
 ## 5. Third-Party Services
 
-Depending on the features used, NutriSmart may rely on third-party services.
+Depending on the features used, NutriSmart relies on third-party services, including:
 
-- **Free version:** AI processing occurs on-device using Apple Foundation Models
-- **Other features:** user input may be transmitted to Google Gemini via Firebase for processing
+- **Apple** (App Store, In-App Purchases)
+- **RevenueCat** (subscription management)
+- **Google Firebase & Gemini** (analytics and optional AI processing)
 
-NutriSmart does not control how third-party providers process or store data.  
-Use of such services is governed by their respective terms and privacy policies.
+NutriSmart does not control how third parties process or store data.  
+Use of these services is governed by their respective terms and privacy policies.
 
 ---
 
@@ -96,8 +98,6 @@ Upon termination, your right to use the Service ends immediately.
 ## 8. Disclaimer of Warranties
 
 The Service is provided **“AS IS” and “AS AVAILABLE”** without warranties of any kind.
-
-We do not guarantee uninterrupted operation or accuracy of results.
 
 ---
 
