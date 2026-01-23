@@ -1,6 +1,6 @@
 # NutriSmart – Privacy Policy
 
-**Last updated:** 2026-01-20
+**Last updated:** 2026-01-23
 
 NutriSmart (“we”, “us”, or “our”) respects your privacy.  
 This Privacy Policy explains how data is processed when you use the NutriSmart mobile application.
@@ -9,9 +9,9 @@ This Privacy Policy explains how data is processed when you use the NutriSmart m
 
 ## 1. Overview
 
-NutriSmart is designed to work **without user accounts or personal profiles**.
+NutriSmart is designed to work without user accounts or personal profiles.
 
-We do not collect or store personally identifiable information such as names, email addresses, or contact details.
+We do not directly collect or store personally identifiable information.
 
 ---
 
@@ -21,9 +21,9 @@ NutriSmart does not collect:
 
 - Names or email addresses
 - Account credentials
+- Payment card details
 - Location data
-- Payment information
-- Medical records or health diagnoses
+- Medical records or diagnoses
 
 ---
 
@@ -32,103 +32,108 @@ NutriSmart does not collect:
 In the free version of NutriSmart:
 
 - AI features use **Apple Foundation Models**
-- Processing occurs **entirely on the user’s device**
-- User input is **not transmitted off the device** for AI processing
+- Processing occurs entirely on the user’s device
+- User input is not transmitted off-device for AI processing
 - NutriSmart does not receive or store AI prompts
 
 ---
 
 ## 4. Third-Party AI Processing (Optional Features)
 
-Certain features may rely on **Google Gemini via Firebase**.
+Some features may rely on **Google Gemini via Firebase**.
 
-When these features are used:
-
+When used:
 - User input is transmitted to Google for processing
-- NutriSmart does not store this input on its own servers
-- NutriSmart does not control how Google processes, stores, or retains this data
+- NutriSmart does not store this input
+- NutriSmart does not control how Google stores or retains this data
 
-Processing is governed by **Google’s own Privacy Policy and AI service terms**.
+Processing is governed by Google’s privacy and AI service policies.
 
 ---
 
-## 5. Analytics (Anonymous Usage Data)
+## 5. Subscriptions and Payments
 
-NutriSmart uses **Firebase Analytics** to understand general app usage.
+NutriSmart offers optional subscriptions.
 
-Only **anonymous events** are sent, such as:
+- Payments are processed by **Apple**
+- Subscription status is managed using **RevenueCat**
+- RevenueCat may process anonymous purchase and entitlement data
+- NutriSmart does not receive payment card information
+
+RevenueCat acts as a **data processor** for subscription-related events.
+
+---
+
+## 6. Analytics (Anonymous Usage Data)
+
+NutriSmart uses **Firebase Analytics** to collect anonymous usage events, such as:
 
 - Added a meal
 - Added a meal to favorites
 - Updated fitness goal
 - Updated calorie goal
 
-### What is not included
-
-- No free-text input
-- No meal descriptions
-- No calorie or macro values
-- No personal identifiers
+These events:
+- Contain no free-text input
+- Contain no nutrition values
+- Are not linked to personal identities
 
 ---
 
-## 6. Legal Basis (GDPR)
+## 7. Legal Basis (GDPR)
 
-Under the General Data Protection Regulation (GDPR), data processing is based on:
+Processing is based on:
 
 - **Article 6(1)(b)** – performance of a contract  
-  (on-device or third-party AI processing required for app functionality)
+  (AI processing and subscription entitlement checks)
 
 - **Article 6(1)(f)** – legitimate interest  
-  (anonymous analytics to improve the app)
+  (anonymous analytics and app improvement)
 
 ---
 
-## 7. Data Retention
+## 8. Data Retention
 
 - NutriSmart does not retain AI prompts
-- On-device AI data remains on the user’s device
-- Analytics retention is determined by Google/Firebase
+- On-device AI data remains on the device
+- Analytics and subscription metadata retention is governed by Google and RevenueCat policies
 
 ---
 
-## 8. International Data Transfers
+## 9. International Data Transfers
 
-When third-party AI features are used, data may be processed outside the European Union.
+Third-party providers may process data outside the EU.
 
-Google relies on:
+These providers rely on:
 - Standard Contractual Clauses (SCCs)
-- Other legally approved safeguards
+- Other GDPR-approved safeguards
 
 ---
 
-## 9. Your Rights (GDPR)
+## 10. Your Rights (GDPR)
 
 You have the right to:
-
 - Request information about data processing
 - Object to processing based on legitimate interest
 - Request deletion where applicable
 
-Because NutriSmart does not store personal data, we may be unable to identify or retrieve individual user data.
+Because NutriSmart does not store personal data, we may be unable to identify individual users.
 
 ---
 
-## 10. Children’s Privacy
+## 11. Children’s Privacy
 
-NutriSmart is not intended for children under 16.  
-We do not knowingly collect data from children.
-
----
-
-## 11. Changes to This Policy
-
-This Privacy Policy may be updated from time to time.  
-Changes will be published on this page.
+NutriSmart is not intended for children under 16.
 
 ---
 
-## 12. Contact
+## 12. Changes to This Policy
+
+Updates will be published on this page.
+
+---
+
+## 13. Contact
 
 For privacy-related questions:
 
